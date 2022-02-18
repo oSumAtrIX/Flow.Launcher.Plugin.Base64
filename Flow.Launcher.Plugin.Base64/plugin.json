@@ -1,0 +1,12 @@
+{
+  "ID": "B75F7BE9-E8B5-44FA-B7EA-DBB581DB7C7B",
+  "ActionKeyword": "base",
+  "Name": "Base64",
+  "Description": "Encode or decode a string using Base64 encoding.",
+  "Author": "oSumAtrIX",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64",
+  "IcoPath": "Images/icon.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.Base64.dll"
+}

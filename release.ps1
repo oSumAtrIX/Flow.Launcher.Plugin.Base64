@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.Base64 -c Release -r win-x64
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.Base64/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.Base64/bin/Base64.zip -Force
